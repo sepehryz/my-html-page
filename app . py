@@ -1,0 +1,16 @@
+# ignore Python fils 
+__pycache__/ 
+*.pyc
+#  ignore vitual enviroment cache directors 
+.env/
+venv/
+ # ignore viritual enviroment directories 
+# ignore log files 
+*.log
+
+# ignore environment configuration files 
+.env
+
+#  ignore build directories 
+build/
+dist/
